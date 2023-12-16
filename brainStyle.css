@@ -8,6 +8,31 @@ body {
     color: white;
     display: flex;
     flex-direction: row;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 5%;
+    align-items: center;
+}
+
+a:visited {
+    color: white;
+    }
+
+a:hover {
+    color: lightslategray;
+    }
+
+input[type='button'] {
+    border: 0px;
+    border-radius: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: white;
+    font-weight:600;
+    font-size: medium;
+
 }
 
 
