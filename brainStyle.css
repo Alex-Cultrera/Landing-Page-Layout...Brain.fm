@@ -27,12 +27,28 @@ body {
     align-items:center;
 }
 
+
+.headline-3 {
+    display: flex;
+    min-width: 445px;
+    max-width: 445px;
+       
+}
+
+.pic1 {
+    display: flex;
+    max-height: 450px;
+    padding-bottom: 10%;
+    padding-left: 0px;
+    
+}
+
 .section-3 {
     background-color:#4915f8;
-    color: white;
+    color: lightgray;
     display: flex;
     flex-direction: row;
-    padding-top: 10%;
+    padding-top: 5%;
     padding-left: 30px;
     padding-right: 2%;
     padding-bottom: 5%;
@@ -48,8 +64,38 @@ body {
     padding-right: 10%;
     padding-bottom: 15%;
     padding-top: 5%;
-    align-items: center;
-    justify-content: center;
+    
+    
+}
+
+.h2 {
+    min-width: 350px;
+    max-width: 350px;
+       
+}
+
+.h3 {
+    min-width: 350px;
+    max-width: 350px;
+       
+}
+
+.h-2 {
+    min-width: 350px;
+    max-width: 350px;
+       
+}
+
+.h-3 {
+    min-width: 350px;
+    max-width: 350px;
+       
+}
+
+.h-4 {
+    min-width: 350px;
+    max-width: 350px;
+       
 }
 
 .free {
