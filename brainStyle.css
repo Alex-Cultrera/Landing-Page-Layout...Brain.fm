@@ -15,6 +15,43 @@ body {
     align-items: center;
 }
 
+.section-2 {
+    background-color:#4915f8;
+    color: white;
+    display: flex;
+    flex-direction: row;
+      
+    padding-left: 30px;
+    padding-right: 2%;
+    
+    align-items:center;
+}
+
+.section-3 {
+    background-color:#4915f8;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10%;
+    padding-left: 30px;
+    padding-right: 2%;
+    padding-bottom: 5%;
+    align-items: center;
+}
+
+.section-4 {
+    background-color:#4915f8;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+    padding-top: 5%;
+    align-items: center;
+    justify-content: center;
+}
+
 .free {
     border: 0px;
     border-radius: 100px;
@@ -64,6 +101,8 @@ input[type='button'] {
 }
 */
 
+/*
 h1 {
     font-size: 10em;
 }
+*/
