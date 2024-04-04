@@ -19,9 +19,9 @@ body {
     background-color:#4915f8;
     color: white;
     display: flex;
+    
     flex-direction: row;
-      
-    padding-left: 30px;
+    padding-left: 2%;
     padding-right: 2%;
     
     align-items:center;
@@ -30,8 +30,7 @@ body {
 
 .headline-3 {
     display: flex;
-    min-width: 445px;
-    max-width: 445px;
+    max-width: 550px;
        
 }
 
